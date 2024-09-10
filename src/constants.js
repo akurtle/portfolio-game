@@ -13,7 +13,7 @@ export const dialogueData = {
     resume: `This is my desk and on it is my resume. <a href="https://github.com/akurtle" target="_blank">Check it out?</a>
     Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
     projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-    Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. `,
+    Text is rendered with HTML/CSS. I have created multiple websites, Machine learning projects and much more!`,
     library: `I love taking cs courses on various topics from time to time apart from uni, I have done the following courses`,
     exit: `If you want to exit Mirza's portfolio, just close the tab.`,
   };
