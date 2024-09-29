@@ -1,0 +1,70 @@
+@font-face{
+    font-family: monogram;
+    src: url('/src/assets/fonts/Monogram.ttf');
+  }
+
+  body{
+    font-family: monogram , monospace;
+    font-size: 2rem;
+    overflow: hidden;
+  }
+
+  #app{
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+
+  #textbox{
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    bottom: 2vh;
+    background:white;
+    outline: 2px solid black;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    word-spacing: 0.2rem;
+  }
+
+
+  .ui-text{
+    margin:0;
+    user-select: none;
+    font-family: monogram , monospace;
+    font-size: 1.5rem;
+  }
+
+  .btn-container{
+    align-self: flex-end;
+    margin-top: 1rem;
+  }
+
+  .note{
+    position: absolute;
+    top: 1vh;
+    left: 5%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #close {
+    background: linear-gradient(145deg, #ffcc00, #ff9900);
+    border: 4px solid #000;
+    box-shadow: 6px 6px 0 #333;
+    padding: 15px 40px;
+    color: #111;
+    font-size: 20px;
+    cursor: pointer;
+    position: relative;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0px #000;
+    transition: 0.2s ease-in-out;
+  }
+
+
