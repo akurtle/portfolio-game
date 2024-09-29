@@ -1,4 +1,4 @@
-import { scaleFactor ,dialogueData } from "/constants.js";
+import { scaleFactor ,dialogueData } from "./constants.js";
 import { k } from "./kaboomCtx.js";
 import { displayDialogue, setCamScale } from "./utils.js";
 
