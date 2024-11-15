@@ -10,9 +10,6 @@ Using this I am showing my portfolio and things I have done so far.
 - **Player Movement**:  
   Navigate the player with mouse clicks, complete with directional animations.  
 
-- **Dynamic Map Rendering**:  
-  Maps are loaded dynamically from JSON files with boundaries and spawn points.  
-
 - **Interactive Dialogue**:  
   Collide with boundaries to trigger dialogues.  
 
@@ -20,3 +17,8 @@ Using this I am showing my portfolio and things I have done so far.
   Automatically adjusts to player movement and screen resizing.  
 
 ---
+
+## 🧩 Technologies Used
+- Kaboom.js: Core game development library.
+- JavaScript: Game logic and interactivity.
+- JSON: Map configurations.
