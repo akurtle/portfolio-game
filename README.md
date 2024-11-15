@@ -19,8 +19,11 @@ Using this I am showing my portfolio and things I have done so far.
 ---
 
 ## 🧩 Technologies Used
-- Kaboom.js: Core game development library.
+- **Kaboom.js**:
+  Core game development library.
   
-- JavaScript: Game logic and interactivity.
+- **JavaScript**:
+  Game logic and interactivity.
   
-- JSON: Map configurations.
+- **JSON**:
+  Map configurations.
